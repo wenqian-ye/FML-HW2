@@ -21,17 +21,17 @@ svm-scale -r abalone/abalone_train_binary.txt.range abalone/abalone_test_binary.
 ### 3.3
 
 ```powershell
-python svm/q3.py > results/q3_outpur.txt
+python svm/q3.py > results/q3_output.txt
 ```
 
 ### 3.4
 
 ```powershell
-python svm/q4.py > results/q4_outpur.txt
+python svm/q4.py > results/q4_output.txt
 ```
 
 ### 3.5
 
 ```powershell
-python svm/q5.py > results/q5_outpur.txt
+python svm/q5.py > results/q5_output.txt
 ```
