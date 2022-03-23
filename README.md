@@ -1,8 +1,8 @@
-Foundations of Machine Learning HW2
+# Foundations of Machine Learning HW2
 
-SVM Hands-on
+## SVM Hands-on
 
-3.2 
+### 3.2 
 
 Split the dataset into train and test:
 
@@ -18,19 +18,19 @@ python svm/generate_binary.py abalone/abalone_test.txt abalone/abalone_test_bina
 svm-scale -r abalone/abalone_train_binary.txt.range abalone/abalone_test_binary.txt > abalone/abalone_test_binary.txt.scale
 ```
 
-3.3
+### 3.3
 
 ```powershell
 python svm/q3.py > results/q3_outpur.txt
 ```
 
-3.4
+### 3.4
 
 ```powershell
 python svm/q4.py > results/q4_outpur.txt
 ```
 
-3.5
+### 3.5
 
 ```powershell
 python svm/q5.py > results/q5_outpur.txt
